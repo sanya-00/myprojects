@@ -1,0 +1,30 @@
+
+.form
+{
+    background-color: rgb(239, 202, 248);
+    text-align: center;
+    max-width: 500px;
+    margin:auto;
+    margin-top: 5px;
+    height:550px;
+
+}
+.container
+{
+    height:400px;
+
+}
+h1{
+    display:inline;
+}
+.form-control
+{
+    width:250px;
+    margin:auto;
+    height:40px;
+
+}
+.btn btn-primary
+{
+    margin-top:5px;
+}
